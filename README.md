@@ -1,1 +1,1 @@
-readme for step6
+STEP SIX
